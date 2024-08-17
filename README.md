@@ -12,12 +12,12 @@
 
 <a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrvx&hide=TeX&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrvx&hide=TeX&layout=compact)" alt="parrvx" />
 
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+<p align="center"> <img src="https://img.shields.io/badge/-Python-black?logo=Python&style=socia" alt="parrvx" />
+<p align="center"> <img src="https://img.shields.io/badge/-Git-black?logo=git&style=socia" alt="parrvx" />
+<p align="center"> <img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=socia"parrvx" />
+<p align="center"> <img src="https://img.shields.io/badge/-LATEX-black?logo=latex&style=socia"parrvx" />
 
 <!---
 parrvx/parrvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
