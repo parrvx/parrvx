@@ -19,6 +19,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
+--------------------------------------------------------------------------------
+---------------------------------- 25/08/2024 ----------------------------------
+
+First I created a [wordpress](https://parrvx.wordpress.com), but it wasn't working like I wanted.
+Still learning about Github and basics of python.
+
+--------------------------------------------------------------------------------
 <!---
 parrvx/parrvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
