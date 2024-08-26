@@ -20,9 +20,10 @@
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 --------------------------------------------------------------------------------
------> 25/08/2024 <-----
+25/08/2024
 
 First I created a [wordpress](https://parrvx.wordpress.com), but it wasn't working like I wanted.
+
 Still learning about Github and basics of python.
 
 --------------------------------------------------------------------------------
