@@ -20,6 +20,18 @@
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 --------------------------------------------------------------------------------
+11/09/2024
+
+Hi, guys!
+
+It's been a while, but I'm back.
+
+I decided not to continue the wordpress because I'm not a blogger. 
+Requires too much creativity and time.
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 25/08/2024
 
 First I created a [wordpress](https://parrvx.wordpress.com), but it wasn't working like I wanted.
