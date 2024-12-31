@@ -20,6 +20,16 @@
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 --------------------------------------------------------------------------------
+31/12/2024
+
+I've been thinking what to do next, since I've finished the kaligos (personal project, sorry) setup.
+
+If you guys have any idea of Stock Market analisys with Python and Data Analisys, please, let know.
+
+Here in Brazil these projects are so thin, so I need to look for it abroad. 
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 11/09/2024
 
 Hi, guys!
