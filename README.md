@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Research
 - 📫 How to reach me ... through a cup of coffee
-- 😄 Pronouns: ... 
+- 😄 Pronouns: Dr. 
 - ⚡ Fun fact: ... 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parrvx&show_icons=true&theme=dark" alt="parrvx" />
