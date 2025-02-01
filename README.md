@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @parrvx
 - 👀 I’m interested in ... Law, Finance and Technology
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python and Nix
 - 💞️ I’m looking to collaborate on ... Research
 - 📫 How to reach me ... through a cup of coffee
 - 😄 Pronouns: Dr. 
