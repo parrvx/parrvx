@@ -20,6 +20,14 @@
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 --------------------------------------------------------------------------------
+12/03/2025
+
+I've learned many things of NixOs and now I'm using [ZaneyOS](https://gitlab.com/Zaney/zaneyos) as my main os.
+
+Still a lot of stuff to set up, but the build is amazing!
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 31/12/2024
 
 I've been thinking what to do next, since I've finished the kaligos (personal project, sorry) setup.
