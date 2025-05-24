@@ -4,7 +4,7 @@
 - 👀 I’m interested in ... Law, Finance, Technology and SWTOR
 - 🌱 I’m currently learning ... Javascript, Python and Nix
 - 💞️ I’m looking to collaborate on ... Research and Guild
-- 📫 How to reach me ... [Discord](https://discord.gg/4W6aDVAb65) 
+- 📫 How to reach me ... Discord [Eternal Alliance](https://discord.gg/kq2gZ8Ja) 
 - 😄 Pronouns:  
 - ⚡ Fun fact: ... 
 
