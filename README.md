@@ -8,9 +8,9 @@
 - 😄 Pronouns:
 - ⚡ Fun fact: ...
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parrvx&show_icons=true&theme=dark" alt="parrvx" />
+<img src="https://github-readme-stats.vercel.app/api?username=parrvx&show_icons=true&theme=dark" alt="parrvx" />
 
-<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrvx&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrvx&hide=TeX&layout=compact)
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
