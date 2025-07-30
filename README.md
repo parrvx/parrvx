@@ -1,7 +1,7 @@
 ## Hi there!
 
 - 👋 Hi, I’m @parrvx
-- 👀 I’m interested in ... Law, Finance, Technology and SWTOR
+- 👀 I’m interested in ... Law, Finance and Technology
 - 🌱 I’m currently learning ... Javascript, Python and Nix
 - 💞️ I’m looking to collaborate on ... Research and Guild
 - 📫 How to reach me ... 
