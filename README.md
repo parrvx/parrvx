@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @parrvx
 - 👀 I’m interested in ... Law, Finance and Technology
-- 🌱 I’m currently learning ... Javascript, Python and Nix
-- 💞️ I’m looking to collaborate on ... Research and Guild
+- 🌱 I’m currently learning ... Python and Nix
+- 💞️ I’m looking to collaborate on ... Research and studies
 - 📫 How to reach me ...
 - 😄 Pronouns:
 - ⚡ Fun fact: ...
