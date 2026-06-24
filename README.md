@@ -3,7 +3,7 @@
 * 🎓 **Background:** Tax Attorney specializing in Financial Management and Tax Accounting research.
 * 🛠️ **Current Stack:** 🐍 Python & Polars (Data & Automation) | ❄️ Nix/NixOS (Declarative Infrastructure) | 🗄️ SQL.
 * 🚀 **Active Project:** [nixconfig](https://github.com/parrvx/nixconfig) — A unified NixOS and Home Manager workspace powered by River WM, Foot, and NixVim.
-* 📈 **The Roadmap:** Scaling reproducible desktop principles into enterprise-grade cloud systems:
+* 📈 **The Roadmap:** [plans](https://github.com/parrvx/plans) — Scaling reproducible desktop principles into enterprise-grade cloud systems:
   1. **Git & GitOps:** Automated pipelines & infrastructure as a single source of truth.
   2. **Data Engines:** High-performance data pipelines via Python 3.13 and Polars.
   3. **Advanced Nix:** Building production-ready, minimal OCI containers using `dockerTools`.
