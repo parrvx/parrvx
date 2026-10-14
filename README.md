@@ -1,21 +1,23 @@
 ## About
 
-* 🎓 **Background:** Analytical background in Law & Finance, now specializing in **Cloud Security, DevSecOps, and Immutable Infrastructure**.
-* 🛠️ **Current Stack:** ☁️ AWS & Terraform (IaC) | ❄️ Nix/NixOS (Declarative Systems) | 🐍 Python & Bash (Automation) | 🐳 Containers & Linux | 🗄️ SQL.
-* 🚀 **Active Project:** [nix](https://github.com/parrvx/nix) — A unified NixOS and Home Manager workspace powered by River WM, Foot, and NixVim.
-* 📈 **The Roadmap:** [plans](https://github.com/parrvx/plans) — Scaling immutable, declarative desktop principles into enterprise-grade Cloud & DevSecOps systems:
-  1. **Infrastructure as Code (IaC):** Automated, declarative cloud provisioning using Terraform & OpenTofu.
-  2. **AWS Security & IAM:** Enforcing least-privilege access control, KMS encryption, and continuous auditing.
-  3. **Container & Runtime Security:** Building minimal OCI containers via Nix `dockerTools` with network isolation.
-  4. **DevSecOps Pipelines:** Integrating automated vulnerability scanning (SAST/DAST) into GitHub Actions CI/CD.
-  5. **Network & System Security:** Ironclad access controls, zero-trust architectures, and secure SSH/VPN tunneling.
-  6. **Cloud Orchestration:** Deploying and securing highly available Kubernetes clusters (CKA/CKS alignment).
-  7. **Radical Immutability:** Operating minimal, API-driven, No-SSH nodes with Talos Linux.
+- 🎓 **Background:** Law & Finance background, specializing in **Cloud Security, DevSecOps, Declarative Systems, and Analytics Engineering**.
+- 🛠️ **Current Stack:** ☁️ AWS & Terraform (IaC) | ❄️ Nix/NixOS (Declarative Systems) | 🐍 Python, Polars & DuckDB (Data & Automation) | 🐳 Containers & Linux | 🗄️ SQL.
 
-I am deeply passionate about **Cloud Security**, **DevSecOps**, and **Immutable Systems**.
+- 🚀 **Active Projects:**
+  - ❄️ [nix](https://github.com/parrvx/nix) — Unified NixOS and Home Manager workspace (River WM, Foot, NixVim).
+  - 📊 `per_faz` — Medallion-architecture (Bronze/Silver/Gold) financial ETL engine built with Python, Polars, DuckDB, and Typst, fully packaged in isolated Nix Flakes.
 
-For more information, visit my site [Parrvx](https://parrvx.github.io/web).
+- 📈 **The Roadmap:** [plans](https://github.com/parrvx/plans) — Scaling immutable, declarative principles into enterprise Cloud & DevSecOps:
+  1. **Infrastructure as Code (IaC):** Declarative provisioning with Terraform & OpenTofu.
+  2. **Data & Analytics Pipelines:** Reproducible ETLs with Python, Polars, and DuckDB.
+  3. **AWS Security & IAM:** Least-privilege, KMS encryption, continuous auditing.
+  4. **Container & Runtime Security:** Minimal OCI containers via Nix `dockerTools`.
+  5. **DevSecOps Pipelines:** Automated CI/CD scanning (SAST/DAST) in GitHub Actions.
+  6. **Radical Immutability:** Minimal, API-driven nodes with Talos Linux & NixOS.
 
-📫 **Connect:** parrvx@gmail.com
+I am deeply passionate about **Cloud Security**, **Immutable Systems**, and **Data Infrastructure**.
 
-_“Treating cloud infrastructure, security policies, and software environments strictly as reproducible code.”_
+🌐 **Digital Garden:** [parrvx.github.io/web](https://parrvx.github.io/web)  
+📫 **Connect:** parrvx@gmail.com | linkedin.com/in/pedroparuolo
+
+_“Treating cloud infrastructure, data pipelines, and security policies strictly as reproducible code.”_
