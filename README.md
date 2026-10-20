@@ -17,7 +17,7 @@
 
 I am deeply passionate about **Cloud Security**, **Immutable Systems**, and **Data Infrastructure**.
 
-🌐 **Digital Garden:** [parrvx.github.io/web](https://parrvx.github.io/web)  
+🌐 **Digital Palace:** [parrvx.github.io/web](https://parrvx.github.io/web)  
 📫 **Connect:** parrvx@gmail.com | linkedin.com/in/pedroparuolo
 
 _“Treating cloud infrastructure, data pipelines, and security policies strictly as reproducible code.”_
