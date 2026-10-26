@@ -2,11 +2,6 @@
 
 - 🎓 **Background:** Law & Finance background, specializing in **Cloud Security, DevSecOps, Declarative Systems, and Analytics Engineering**.
 - 🛠️ **Current Stack:** ☁️ AWS & Terraform (IaC) | ❄️ Nix/NixOS (Declarative Systems) | 🐍 Python, Polars & DuckDB (Data & Automation) | 🐳 Containers & Linux | 🗄️ SQL.
-
-- 🚀 **Active Projects:**
-  - ❄️ [nix](https://github.com/parrvx/nix) — Unified NixOS and Home Manager workspace (River WM, Foot, NixVim).
-  - 📊 `per_faz` — Medallion-architecture (Bronze/Silver/Gold) financial ETL engine built with Python, Polars, DuckDB, and Typst, fully packaged in isolated Nix Flakes.
-
 - 📈 **The Roadmap:** [plans](https://github.com/parrvx/plans) — Scaling immutable, declarative principles into enterprise Cloud & DevSecOps:
   1. **Infrastructure as Code (IaC):** Declarative provisioning with Terraform & OpenTofu.
   2. **Data & Analytics Pipelines:** Reproducible ETLs with Python, Polars, and DuckDB.
